@@ -1,5 +1,8 @@
 # parrotias-livestreaming-client
 
+## Link
+https://gorgeous-nougat-b5f05f.netlify.app/
+
 
 ## Running Locally
 
